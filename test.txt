@@ -1,4 +1,0 @@
-ciao
-
-test
-test test
